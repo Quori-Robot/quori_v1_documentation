@@ -167,7 +167,7 @@ Attach the unconnected long micro usb cable found in the wire guides to the top 
 
 ![images/assembly1/image19.png](../images/assembly1/image19.png)
 
-Finally, attach the top helmet piece in the reverse order shown below. Make sure the Camera cable is along the robot’s left side and the microphone cable is along the left side.  [See video for reference](https://photos.app.goo.gl/pUeqEAdTautJ5Z4A7)
+Finally, attach the top helmet piece in the reverse order shown below. Make sure the camera cable is along the robot’s right side and the microphone cable is along the left side.  [See video for reference](https://photos.app.goo.gl/pUeqEAdTautJ5Z4A7)
 
 ![images/assembly1/image15.png](../images/assembly1/image15.png)
 
@@ -306,7 +306,7 @@ Attach the 3 lower panels of the helmet first. The lower smaller chin pieces fir
 
 ![images/assembly2/image3.png](../images/assembly2/image3.png)
 
-Finally, attach the top helmet piece in the reverse order shown below. Make sure the Camera cable is along the robot’s left side and the microphone cable is along the left side. [See video for reference](https://photos.app.goo.gl/pUeqEAdTautJ5Z4A7)
+Finally, attach the top helmet piece in the reverse order shown below. Make sure the camera cable is along the robot’s right side and the microphone cable is along the left side. [See video for reference](https://photos.app.goo.gl/pUeqEAdTautJ5Z4A7)
 
 ![images/assembly2/image25.png](../images/assembly2/image25.png)
 

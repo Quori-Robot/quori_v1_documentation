@@ -1,0 +1,32 @@
+# Checks the external (web) links of the documentation with lychee.
+#
+# This complements mdbook-linkcheck, which only verifies internal links
+# during the deploy build. This workflow is intentionally separate from
+# the deploy workflow so that an external site going down never blocks
+# publishing the book.
+#
+# Known-unreachable or bot-hostile domains are excluded in .lycheeignore.
+name: Check external links
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # weekly, Monday 06:00 UTC
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "src/**"
+      - "README.md"
+      - ".lycheeignore"
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links in Markdown sources
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress "src/**/*.md" "README.md"

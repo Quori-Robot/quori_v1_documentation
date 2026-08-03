@@ -14,7 +14,7 @@ with extra tools to for testing it, like `mdbook-linkcheck`.
 
 ```bash
 cargo install mdbook mdbook-linkcheck
-mdbook watch -o # Builds it, serves it, open it in a browser and auto-rebuilds on changes.
+mdbook serve -o # Builds it, serves it, opens it in a browser and auto-rebuilds on changes.
 ```
 
 See the official instructions:

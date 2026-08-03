@@ -1,0 +1,21 @@
+# URL patterns (regexes) excluded from the external link check
+# (.github/workflows/linkcheck.yml).
+
+# Google Photos short links and Google Docs: not reliably reachable
+# without authentication, and pending migration — see the repository
+# issues about replacing them.
+https://photos\.app\.goo\.gl/
+https://docs\.google\.com/
+
+# Sites that block automated link checkers (bot protection).
+https://www\.mcmaster\.com/
+https://ark\.intel\.com/
+https://developer\.nvidia\.com/
+https://www\.st\.com/
+
+# Legacy vendor pages kept for historical reference; the products or
+# sites are discontinued and the links may not resolve anymore.
+http://shop\.orbbec3d\.com/
+http://iq-control\.com
+https://store\.gooscreen\.com/
+https://os\.mbed\.com/

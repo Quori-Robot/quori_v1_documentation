@@ -29,21 +29,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      MDBOOK_VERSION: 0.4.36
+      MDBOOK_VERSION: 0.4.52
+      MDBOOK_LINKCHECK_VERSION: 0.7.7
     steps:
       - uses: actions/checkout@v4
       - name: Install mdBook
-        run: |
-          curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
-          rustup update
-          cargo install mdbook@${MDBOOK_VERSION} mdbook-linkcheck
+        # The runner image ships with a Rust toolchain already installed.
+        # mdBook is pinned to the 0.4 series: mdbook-linkcheck is not
+        # compatible with mdBook 0.5 yet.
+        run: cargo install mdbook@${MDBOOK_VERSION} mdbook-linkcheck@${MDBOOK_LINKCHECK_VERSION}
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Build with mdBook
         run: mdbook build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./book/html
 
@@ -57,4 +58,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v3
+        uses: actions/deploy-pages@v4

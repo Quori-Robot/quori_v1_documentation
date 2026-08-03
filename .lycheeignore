@@ -7,6 +7,10 @@
 https://photos\.app\.goo\.gl/
 https://docs\.google\.com/
 
+# DOIs are persistent identifiers; the publisher sites they resolve to
+# (e.g. ASME) often block automated link checkers.
+https://doi\.org/
+
 # Sites that block automated link checkers (bot protection).
 https://www\.mcmaster\.com/
 https://ark\.intel\.com/

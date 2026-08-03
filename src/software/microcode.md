@@ -4,7 +4,7 @@
 - Embedded Code for the arms and waist modules: [https://github.com/Quori-Robot/quori_embedded](https://github.com/Quori-Robot/quori_embedded)
 
 - Microcontroller for the base: [NUCLEO-F303K8](https://www.st.com/en/evaluation-tools/nucleo-f303k8.html) (remove and jumpers from the microcontroller before using)
-- Code for the base module: [https://github.com/Quori-Robot/quori_embedded](https://www.st.com/en/evaluation-tools/nucleo-f303k8.html). For the NUCLEO microcontroller you may need to:
+- Code for the base module: [https://github.com/Quori-Robot/quori_embedded](https://github.com/Quori-Robot/quori_embedded). For the NUCLEO microcontroller you may need to:
   - Update your computer to have the latest driver [https://os.mbed.com/platforms/ST-Nucleo-F303K8/](https://os.mbed.com/platforms/ST-Nucleo-F303K8/)
   - Update the mbed to have the latest firmware update [https://os.mbed.com/platforms/ST-Nucleo-F303K8/](https://os.mbed.com/platforms/ST-Nucleo-F303K8/)
 
@@ -35,7 +35,7 @@ The three base motor controllers (Pololu Simple Motor Controller 18v7)  are foun
 ### Waist/Torso Motor Controller Settings
 
 You should make sure the controller is programmed first.
-[https://www.pololu.com/docs/0J77/3.1](https://www.google.com/url?q=https://www.pololu.com/docs/0J77/3.1&sa=D&source=editors&ust=1703158334607634&usg=AOvVaw1tAte1inyE-RffXPiGazof)
+[https://www.pololu.com/docs/0J77/3.1](https://www.pololu.com/docs/0J77/3.1)
 The waist is the G2 motor controller.
 
 Use the following settings:

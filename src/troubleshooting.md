@@ -12,8 +12,8 @@
 
 -   Try testing the PC connected to AC power instead of the inverter
 
--   Try running the PC from an [*external power
-    source.*](#_xnuyyfdvc92x) If this does not work check for
+-   Try running the PC from an [external power
+    source](hardware/power.md#power-configurations). If this does not work check for
     unseated power cables
 
     -   Check the power cable has not become unseated at the DC end

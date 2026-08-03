@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sections provides links to the software repositories for Quori as well as information about the computer and microcontrollers. For detailed information about using Quori with ROS please visit Quori’s ROS wiki page at: http://wiki.ros.org/Robots/Quori.
+This sections provides links to the software repositories for Quori as well as information about the computer and microcontrollers. For detailed information about using Quori with ROS please visit [Quori’s ROS wiki page](http://wiki.ros.org/Robots/Quori).
 
 Quori has two main software categories: (1) low-to-mid-level, including core control of each module (actuation and sensing); and (2) high-level social interaction software (animation and dialog tools).
 

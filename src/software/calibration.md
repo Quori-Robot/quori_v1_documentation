@@ -58,7 +58,7 @@ The base calibration does not require the microcontroller to be flashed. The cal
 
 - `roslaunch quori_controller quori_control_holo.launch`
 - `roslaunch quori_teleop quori_teleop.launch`
-- Hold the left bumper LB and use the thumbsticks to rotate the top plate of the base into your desired zero heading. [See teleop repo](https://www.google.com/url?q=https://github.com/Quori-Robot/quori_ros/tree/master/src/quori_teleop&sa=D&source=editors&ust=1703158334603099&usg=AOvVaw0ti8R1g06ZxG_J2iSaMmy2) for more information on how to command the robot
+- Hold the left bumper LB and use the thumbsticks to rotate the top plate of the base into your desired zero heading. See the [Teleoperation](teleoperation.md) section for more information on how to command the robot
 - `rostopic echo /quori/base/pos_status`
 - Use the value reported in the echo above as the new calibration value in the calibration file
 

@@ -27,9 +27,9 @@ Move the holonomic ramsis base.
 - Linear Y - Left Thumb Stick (X axis)
 - Angular Z - Right Thumb Stick (X axis)
 
-### Waise Hinge Control (Hold Right Bumper)
+### Waist Hinge Control (Hold Right Bumper)
 
-- `waste_pitch` - Left Thumb Stick (Y axis)
+- `waist_pitch` - Left Thumb Stick (Y axis)
 
 ## Subscribed Topics
 

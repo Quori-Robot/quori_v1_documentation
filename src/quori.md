@@ -13,7 +13,7 @@ See the [Usage](general_use.md) section for more information on how to use Quori
 
 ## Community-Informed Hardware
 
-The following design of Quori is a result of the computing community input over three years of surveys and workshops. Quori is a low-cost, socially interactive robot platform comprised of an upper-body humanoid with a rear-projection head/face and two gesturing arms mounted atop an omnidirectional mobile base, standing at approximately 1.4 meters tall.
+The following design of Quori is a result of the computing community input over three years of surveys and workshops. Quori is a low-cost, socially interactive robot platform comprised of an upper-body humanoid with a rear-projection head/face and two gesturing arms mounted atop an omnidirectional mobile base, standing at approximately 1.35 meters tall.
 
 Sensors are integrated to provide useful data for recognizing and making decisions about interactions with both the environment and human users. The robot is designed for non-contact HRI tasks, such as person-tracking, performing expressive arm gestures, and displaying expressive facial features.
 

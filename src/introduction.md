@@ -6,13 +6,13 @@ Quori owners should refer to the [Usage](general_use.md) section,
 to learn about the robot's maintenance and operation.
 See also the [assembly instructions](setup/assembly.md) if you have just received a robot.
 
-If the robot is already setup,
-and developers should refer to the [Software](software.md) section.
+If the robot is already set up,
+developers should refer to the [Software](software.md) section.
 
 
 ## Development Team
 
-The Quori Team is a collaboration between the [University of Pennsylvania (UPenn) Modlab](http://www.modlabupenn.org) and the [University of California (USC) Interaction Lab](http://robotics.usc.edu/interaction). USC and UPenn are joined by [Semio](https://semio.ai), a social robotics software company.
+The Quori Team is a collaboration between the [University of Pennsylvania (UPenn) Modlab](http://www.modlabupenn.org) and the [University of Southern California (USC) Interaction Lab](https://interaction-lab.org/). USC and UPenn are joined by [Semio](https://semio.ai), a social robotics software company.
 
 This project is supported by the National Science Foundation (NSF) Computing Research Infrastructure (CRI) Collaborative grant CNS-1513275 and CNS-1513108.
 

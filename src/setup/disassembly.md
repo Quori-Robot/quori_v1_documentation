@@ -18,7 +18,7 @@ Make sure all power is off and not connected when servicing the robot. Turning o
 - Take off the middle section using two hands. Pull it directly back to avoid scratching the head
   ![images/disassembly/image25.png](../images/disassembly/image25.png)
 
-- Take off the two lower helmet pieces. These should easily pull apart from the two seems
+- Take off the two lower helmet pieces. These should easily pull apart from the two seams
   ![images/disassembly/image11.png](../images/disassembly/image11.png)
 
 
@@ -67,7 +67,7 @@ Make sure all power is off and not connected when servicing the robot. Turning o
 
 ### Waist (3 minutes)
 
-- Take off each waist by unscrewing the top and bottom thumb screws, see images for examples. Note that the two pieces are not interchangeable and the one labeled front should be on the same side of the robot as the speakers. The front piece is the one with male (protruding) alignment cones.Be sure to put the thumb screws onto the robot to prevent losing them.
+- Take off each waist by unscrewing the top and bottom thumb screws, see images for examples. Note that the two pieces are not interchangeable and the one labeled front should be on the same side of the robot as the speakers. The front piece is the one with male (protruding) alignment cones. Be sure to put the thumb screws onto the robot to prevent losing them.
   ![images/disassembly/image24.png](../images/disassembly/image24.png)
 
   ![images/disassembly/image2.png](../images/disassembly/image2.png)
@@ -80,7 +80,7 @@ Make sure all power is off and not connected to the head module. Turning off the
 - Unplug the HDMI, and power cable from the bottom of the projector.
   ![images/disassembly/image32.png](../images/disassembly/image32.png)
 
-- Disconnect the camera. For the camera you can either take the camera off its mount or unplug the camera usb cable and unrouting it from its two guides. We recommend removing the camera. To remove the camera from its mount use a Phillips head screwdriver two take the two screws off holding it to its mount. Install the screws into the camera to avoid losing them, see image. You should then store the camera in the torso right side as shown in the below image using a velcro strap. Wrap the camera with bubble wrap to help protect it.
+- Disconnect the camera. For the camera you can either take the camera off its mount or unplug the camera usb cable and unrouting it from its two guides. We recommend removing the camera. To remove the camera from its mount use a Phillips head screwdriver to take the two screws off holding it to its mount. Install the screws into the camera to avoid losing them, see image. You should then store the camera in the torso right side as shown in the below image using a velcro strap. Wrap the camera with bubble wrap to help protect it.
   ![images/disassembly/image4.png](../images/disassembly/image4.png)
 
   ![images/disassembly/image5.png](../images/disassembly/image5.png)
@@ -89,12 +89,12 @@ Make sure all power is off and not connected to the head module. Turning off the
 - You need to pull out the speakers from their mount to remove the head. See images of the four screws and the unmounted speaker. You may want to take the torso mounting plate off before removing the head. See next step if so.
   ![images/disassembly/image18.png](../images/disassembly/image18.png)
 
-- You need to take the torso mounting plate off to remove the head. Take the two screws with nuts off the panel using an M4 driver and fingers to hold the nut. Be Careful to not drop any parts. Screw the nut and bolt together on the bracket after removal. Mount the plate as shown in the imaging using the front waist’s top thumb screw.
+- You need to take the torso mounting plate off to remove the head. Take the two screws with nuts off the panel using an M4 driver and fingers to hold the nut. Be Careful to not drop any parts. Screw the nut and bolt together on the bracket after removal. Mount the plate as shown in the image using the front waist’s top thumb screw.
   ![images/disassembly/image20.png](../images/disassembly/image20.png)
 
   ![images/disassembly/image28.png](../images/disassembly/image28.png)
 
-    - Remove the 4 screws holding the head module to the torso using an m4 driver, see next step before proceeding. Only remove the four black screws, they should be vertical and going into the black ABS peices, that is, do not take out the screws going into the MDF structure. Screw the 4 bolts into the head plate to avoid losing the screws.
+    - Remove the 4 screws holding the head module to the torso using an m4 driver, see next step before proceeding. Only remove the four black screws, they should be vertical and going into the black ABS pieces, that is, do not take out the screws going into the MDF structure. Screw the 4 bolts into the head plate to avoid losing the screws.
   ![images/disassembly/image8.png](../images/disassembly/image8.png)
 
 
@@ -104,11 +104,11 @@ Make sure all power is off and not connected to the base module. Turning off the
 
 Before attempting to remove the torso from the base you will need to unplug the power cable and the usb cable as well as 14 screws using an m2.5 driver. It is best to have **three people** to help lift the robot and guide the cables through. The instructions below will detail this.
 
-You may want to take the battery out of the robot to make it easier to lift the robot. Again, make sure the main relay is off before doing this. You will unplug the xt-60 connector. You should cover the battery xt-60 connect an XT-60 cap as a safety precaution. Then move the wire under and out of the structure, see image. Then, take off the two velcro straps. Then carefully pull the battery out towards the back of the robot. Note the battery weighs about 24 pounds. You may want to insert two M3x60 bolts into the waist to lock it in place. Do the reverse of the following:
+You may want to take the battery out of the robot to make it easier to lift the robot. Again, make sure the main relay is off before doing this. You will unplug the xt-60 connector. You should cover the battery XT-60 connector with an XT-60 cap as a safety precaution. Then move the wire under and out of the structure, see image. Then, take off the two velcro straps. Then carefully pull the battery out towards the back of the robot. Note the battery weighs about 24 pounds. You may want to insert two M3x60 bolts into the waist to lock it in place. Do the reverse of the following:
 
 Before installing the batteries you will need to remove or replace the locking M3 bolts. Note the battery is 24 pounds. A video link is provided at the end of these instructions.
 
-**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in.If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference, note the two locations might be mirrored for each robot.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
+**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in. If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference, note the two locations might be mirrored for each robot.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
 
 ![images/disassembly/image31.png](../images/disassembly/image31.png)
 
@@ -140,4 +140,4 @@ For storage into the pelican case you will need to remove the casters. The caste
 
 ![images/disassembly/image27.png](../images/disassembly/image27.png)
 
-If you are shipping the torso unit please consider installing the two M3x60 bolts that lock the battery bay inplace. This will help reduce stress on the waist transmission during shipping.
+If you are shipping the torso unit please consider installing the two M3x60 bolts that lock the battery bay in place. This will help reduce stress on the waist transmission during shipping.

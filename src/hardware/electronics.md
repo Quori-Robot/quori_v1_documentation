@@ -7,7 +7,7 @@ Each of the sensors and main components connect via standard connectors and comm
 The figure above shows the components and connection types.
 Data are transferred via standard methods of USB 2.0 and 3.0 (blue lines), audio jack (green lines) and HDMI (purple lines).
 Module and sensors are readily modified or replaced with other devices that communicate over USB.
-A four-port USB hub and a one-port HDMI port are accessible from the back of the robot without removing any components.
+A four-port USB hub and an HDMI port are accessible from the back of the robot without removing any components.
 
 The main connection type is USB with all connections using USB 2.0, except for the USB 3.0 RGB+D camera (Quori's default PC has multiple USB 3.0 ports for future upgrades).
 HDMI transmits the head image data, allowing for future modifications.

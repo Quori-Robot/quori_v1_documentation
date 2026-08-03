@@ -6,7 +6,7 @@ Calibration values for your robot can be found in [the values section](#values).
 
 You will need to set the zero position for the two sensors in each arm. This is done in the calibration configuration where the joints should read zero.
 
-The arm should be straight out and the abduction axis of the shoulder joint facing forward. The part of the shoulder 3d printed piece with the sensor should be closest to the back for the right arm while for the left arm should be calibrated with the sensor face closest to the front of the robot. The two images of the left and right arms almost in calibration (the abduction is not zeroed since it is not perpendicular to the module as with the left most animation image), that is, the proper alignment in one axis for each showing how the sensor should be parallel to different faces depending on while arm you are working with.
+The arm should be straight out and the abduction axis of the shoulder joint facing forward. The part of the shoulder 3d printed piece with the sensor should be closest to the back for the right arm while for the left arm should be calibrated with the sensor face closest to the front of the robot. The two images of the left and right arms almost in calibration (the abduction is not zeroed since it is not perpendicular to the module as with the left most animation image), that is, the proper alignment in one axis for each showing how the sensor should be parallel to different faces depending on which arm you are working with.
 
 Below, the target calibration position:
 
@@ -22,7 +22,7 @@ Left arm sensor alignment example:
 
 Flash the microcontroller for the arm you are calibrating with the code as instructed from [`quori_embedded`](https://github.com/Quori-Robot/quori_embedded); however, you will set the `ARM_ZERO_POSITION` variables in calibration.hpp to zero for the arm you are calibrating.
 
-Next launch the controller file in quori_ros. You should now be able to view the sensor’s value by using rostopic echo to see the joint’s state. Use these value for their corresponding `ARM_ZERO_POSITION` variables. You can now flash the microcontroller with the update calibration. Verify the calibration was successful by reading the joint’s position in the zero configuration. The position should be reported as something close to zero.
+Next launch the controller file in quori_ros. You should now be able to view the sensor’s value by using rostopic echo to see the joint’s state. Use these value for their corresponding `ARM_ZERO_POSITION` variables. You can now flash the microcontroller with the updated calibration. Verify the calibration was successful by reading the joint’s position in the zero configuration. The position should be reported as something close to zero.
 
 ## Waist
 

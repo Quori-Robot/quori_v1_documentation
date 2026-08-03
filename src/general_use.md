@@ -14,7 +14,7 @@
 
 These instructions assume your robot is in the default configuration and your robot is fully assembled as described in the [Assembly/Disassembly section](setup/assembly.md).
 
-Make sure the Emergency Stop is push in. This will prevent power to the motors.
+Make sure the Emergency Stop is pushed in. This will prevent power to the motors.
 
 Push in the red switch on the main breaker of Quori. You will need to remove the back service panel to access this.
 
@@ -26,7 +26,7 @@ To turn the PC on you will press the PC power button (for one second) on the fro
 
 When you are ready to power the motors on you can twist the Emergency Stop button to release the switch.
 
-> If the robot does NOT make SERIES OF BEEPS when booting up, the motors will not run!
+> If the robot does NOT make a SERIES OF BEEPS when booting up, the motors will not run!
 > If this happens, press the e-stop then twist to release it.
 > Repeat this until you hear the series of beeps.
 
@@ -40,7 +40,7 @@ button.
 
 ## Recharging
 
-The robot battery can be charged while mounted in the robot. Use the bullet connector cable that should be tucked under the battery velcro straps. Besure to secure the charger cable under the velcro when you are done charging. You will need to remove at least one of the black service panels to access the charging cable.
+The robot battery can be charged while mounted in the robot. Use the bullet connector cable that should be tucked under the battery velcro straps. Be sure to secure the charger cable under the velcro when you are done charging. You will need to remove at least one of the black service panels to access the charging cable.
 
 ![How to hurt yourself trying to charge the robot](images/crawling_under_quori.png)
 ![Quori Battery](images/quori_battery.png)
@@ -55,7 +55,7 @@ Now connect the charger to AC power.
 When you are done charging, place the cap over the charger cable connector and secure the cable under the velcro.
 
 ![Battery Connector with Cap On](images/connector_with_cap.png)
-![Where to put the connector](images/quori_battery_spot.png)s
+![Where to put the connector](images/quori_battery_spot.png)
 
 ## Accessing the PC
 
@@ -67,6 +67,6 @@ Plug in a monitor to your robot via an HDMI cable to the HDMI port (red in image
 
 Plug in a usb keyboard and mouse to your robot from the USB hub (blue in image above) on the back of the robot near the emergency stop button.
 
-Turn the main breaker on. Then press the PC on the button for one second to turn the PC on.  You should soon see the Qubuntu OS load up and show the Desktop on the monitor. You can set up WiFi and complete any other configurations from here.
+Turn the main breaker on. Then press the PC power button for one second to turn the PC on.  You should soon see the Qubuntu OS load up and show the Desktop on the monitor. You can set up WiFi and complete any other configurations from here.
 
 With the PC running, you can [test](setup/testing.md) the robot's sensors and actuators.

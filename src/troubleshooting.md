@@ -6,7 +6,7 @@
 
 -   If you are running the PC from the inverter on the robot (for
     battery power or external AC2DC) Check that the power switch
-    on the inverter is set the the "ON" position.
+    on the inverter is set to the "ON" position.
 
 -   Try holding the PC power button down for a 2-5 seconds
 
@@ -181,7 +181,7 @@
     motor to struggle to move the torso smoothly.
 
 -   Make sure the power brick for the PC is securely under the
-    computer bay ledge. If it is not the the power brick might not
+    computer bay ledge. If it is not, the power brick might not
     be level and may go above this height. If the brick is above
     the computer bay ledge it can collide with the torso causing
     the torso to stop or the power to turn off. There should be
@@ -198,7 +198,7 @@
 -   Make sure the cable is not getting caught when you install the
     battery
 
--   The battery fits snuggly into the steel bay. The battery should
+-   The battery fits snugly into the steel bay. The battery should
     fit well if you insert the battery such that it is aligned
     with the compartment. Inserting the battery at an angle could
     lead to it getting stuck.

@@ -25,7 +25,7 @@ This is the default configuration for Quori. Make sure the following is correct.
 
 ### PC and Projector External
 
-Here the PC and projector plug into an extension chord into 120 AC Voltage
+Here the PC and projector plug into an extension cord into 120 AC Voltage
 
 1. Turn off the inverter power switch
 1. Unplug the PC and projector power cables.
@@ -45,6 +45,6 @@ You will need a DC power supply rated for 12 Volts at least 30 Amps to power the
 
 Above, the 12V DC circuit for Quori. Motor controllers receive power directly from the battery, while sensors receive power from the computer. The emergency stop controls power to the motors, but allows the computer and projector to remain on. The power charging port is within the battery bay.
 
-1. Unplug the batter cable from the robot cable and cover the batter plug with a cover
+1. Unplug the battery cable from the robot cable and cover the battery plug with a cover
 1. Plug your DC power supply into the now open male XT60 connector on the robot
-1. Note: A variation of this configurations uses both a DC power supply and AC external power. You can use a smaller DC power supply and implement the steps from “PC and Projector External”.
+1. Note: A variation of this configuration uses both a DC power supply and AC external power. You can use a smaller DC power supply and implement the steps from “PC and Projector External”.

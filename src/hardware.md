@@ -1,6 +1,6 @@
 # Hardware
 
-Quori is 1.35m tall, consisting of an expressive upper body attached to a omnidirectional mobile base.
+Quori is 1.35m tall, consisting of an expressive upper body attached to an omnidirectional mobile base.
 
 ## Key Features
 

@@ -109,7 +109,7 @@ Quori can navigate a map using ROS’s navigation stack. Use a remote laptop to 
 ```bash
 roslaunch quori_launch mapping.launch
 roslaunch quori_controller quori_control_holo.launch
-roslaunch quori_nav move_base.launch # if autonomous otherwise use telop
+roslaunch quori_nav move_base.launch # if autonomous, otherwise use teleop
 ```
 
 Then run RViz on a remote desktop that is on the same ROS network.

@@ -6,7 +6,7 @@ From a Linux PC session with Xorg:
 
 ```bash
 ssh -X quori<robot number>@<robot address>
-roscore &!
+roscore &
 ```
 
 ## Running from a PC

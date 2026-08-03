@@ -35,7 +35,7 @@ The robot will arrive in multiple packages. The panels are not needed for testin
 
 ### Head Package (1 minute)
 
-The head is packaged along and the box can simply be opened. Take off any packing supplies. A small piece of foam will be between the helmet and the globe at the chin; remove this.
+The head is packaged alone and the box can simply be opened. Take off any packing supplies. A small piece of foam will be between the helmet and the globe at the chin; remove this.
 
 ![images/assembly1/image20.png](../images/assembly1/image20.png)
 
@@ -79,7 +79,7 @@ The torso will be mounted to the base. Attach the blue or gray power inverter by
 
 ![images/assembly1/image32.png](../images/assembly1/image32.png)
 
-**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in.If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
+**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in. If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
 
 ### Head Prep (1 minute)
 
@@ -89,11 +89,11 @@ Take out the small piece of foam near the chin of the helmet.
 
 ## Torso and Base (25 minutes)
 
-Note: You will need two to three people for this stage.Time:
+Note: You will need two to three people for this stage.
 
 The Torso will now be mounted on the base. There is only one configuration that is proper to mount the base and torso together. Read the next paragraph before trying to mount the base.
 
-Match the front and back labels of the Torso and Base. Have one or two people lift the Torso by the bottom plate and the waist as shown in the image. You can also hold onto the MDF edge that connects to the steel and the lower ABS cross brace. A third person will guide the usb cable as well as the power cable from the base through the center hole and connecting slot of the Torso and under the computer. The usb cable will go to the left side of the robot, the side with the usb hub. The power cable will go to the right side of the robot. DO NOT pull on these cables as it may damage or sever the cable. If you lifted the PC make sure to reset it so it is laying flat in its bay. If it is not flat the battery bay will collide with it. The torso plate and the base plate should be flush with no gap between them. If there is a gap check all the bolts and holes align well. You may have to apply some pressure to seat the plate over the bolts. Be sure to check that no wires are pinched between the plates. [See this video for an example.](https://photos.app.goo.gl/Qs5bfcfJa8kdnrL27)
+Match the front and back labels of the Torso and Base. Have one or two people lift the Torso by the bottom plate and the waist as shown in the image. You can also hold onto the MDF edge that connects to the steel and the lower ABS cross brace. A third person will guide the usb cable as well as the power cable from the base through the center hole and connecting slot of the Torso and under the computer. The usb cable will go to the left side of the robot, the side with the usb hub. The power cable will go to the right side of the robot. DO NOT pull on these cables as it may damage or sever the cable. If you lifted the PC make sure to reset it so it is lying flat in its bay. If it is not flat the battery bay will collide with it. The torso plate and the base plate should be flush with no gap between them. If there is a gap check all the bolts and holes align well. You may have to apply some pressure to seat the plate over the bolts. Be sure to check that no wires are pinched between the plates. [See this video for an example.](https://photos.app.goo.gl/Qs5bfcfJa8kdnrL27)
 
 ![images/assembly1/image30.png](../images/assembly1/image30.png)
 
@@ -145,7 +145,7 @@ Take off the middle section using two hands. Pull it directly back to avoid scra
 
 ![images/assembly1/image4.png](../images/assembly1/image4.png)
 
-Take off the two lower helmet pieces. These should easily pull apart from the two seems
+Take off the two lower helmet pieces. These should easily pull apart from the two seams
 
 ![images/assembly1/image24.png](../images/assembly1/image24.png)
 
@@ -153,7 +153,7 @@ Next unwrap the camera from the waist by removing the velcro and bubble wrap.
 
 ![images/assembly1/image12.png](../images/assembly1/image12.png)
 
-Mount the camera to the sensor carriage using the two screws already found in the camera. Using a phillip’s heaed screwdriver. Before tightening the screws use a straight edge to align the camera as shown in the image below.
+Mount the camera to the sensor carriage using the two screws already found in the camera, using a Phillips head screwdriver. Before tightening the screws use a straight edge to align the camera as shown in the image below.
 
 ![images/assembly1/image5.png](../images/assembly1/image5.png)
 
@@ -163,7 +163,7 @@ Attach the 3 white panels of the helmet first. The lower smaller pieces first, f
 
 ![images/assembly1/image4.png](../images/assembly1/image4.png)
 
-Attach the unconnected long micro usb cable from found in the wire guides to the top helmet. You will need to remove the two screws using an m1.5 driver to insert the usb connector into the sensor. Screw the sensor into the helmet as shown. The sensor should push securely against the part, but be careful to not overtighten.
+Attach the unconnected long micro usb cable found in the wire guides to the top helmet. You will need to remove the two screws using an m1.5 driver to insert the usb connector into the sensor. Screw the sensor into the helmet as shown. The sensor should push securely against the part, but be careful to not overtighten.
 
 ![images/assembly1/image19.png](../images/assembly1/image19.png)
 
@@ -173,7 +173,7 @@ Finally, attach the top helmet piece in the reverse order shown below. Make sure
 
 ## Speakers (5 minutes)
 
-- To mount the speakers remove the pate mounted near the waist with a thumb screw. Screw the thumbscrew back in to avoid losing it.Take the two screws with nuts off the bracket using an M4 driver and fingers to hold the nut. Be Careful to not drop any parts. Screw the panel UNDER the bracket with the nut and bolt using an M4 driver and fingers to hold the nut. Make sure the panel mounting matches the image, the bracket should be showing above the black panel.
+- To mount the speakers remove the plate mounted near the waist with a thumb screw. Screw the thumbscrew back in to avoid losing it. Take the two screws with nuts off the bracket using an M4 driver and fingers to hold the nut. Be Careful to not drop any parts. Screw the panel UNDER the bracket with the nut and bolt using an M4 driver and fingers to hold the nut. Make sure the panel mounting matches the image, the bracket should be showing above the black panel.
 
 ![images/assembly1/image18.png](../images/assembly1/image18.png)
 
@@ -186,7 +186,7 @@ Install the speakers into their mount. They will simply press into the jack on t
 
 Before installing the batteries you will need to remove or replace the locking M3 bolts. Note the battery is 24 pounds. A video link is provided at the end of these instructions.
 
-**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in.If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference, note the two locations might be mirrored for each robot.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
+**ATTENTION:** Before using the torso take out the two torso locking M3 bolts. The battery will not fit if these are left in. If you do not use the waist motor remove the 5 Amp fuse near the motor line. Then you can loosen the M3 bolt such that the battery can be placed in it. [See video for reference, note the two locations might be mirrored for each robot.](https://photos.app.goo.gl/qkKNyzurEaRbXw3x9)
 
 **ATTENTION:** Make sure the main breaker is OFF before starting this step.
 
@@ -196,9 +196,9 @@ Before installing the batteries you will need to remove or replace the locking M
 
 Unwrap the two velcro straps.
 
-Make sure the two steel counter mass plates are centered on the bottom steel plate and fit tightly against the side walls. The robot may struggle to move the waist If the counter plates are not centered. The front and back edges of the steel plates should be flush with the slot in the bottom plate that the velcro straps enter into, i.e the two plates should be be touching the velcro straps.
+Make sure the two steel counter mass plates are centered on the bottom steel plate and fit tightly against the side walls. The robot may struggle to move the waist If the counter plates are not centered. The front and back edges of the steel plates should be flush with the slot in the bottom plate that the velcro straps enter into, i.e. the two plates should be touching the velcro straps.
 
-Next, slide the battery into the back of the robot and into the battery bay such that the battery cables are in the upper right corner of the robot’s battery bay. Be sure that the two counter mass plates do not shift. This is easiest to do from the back of the robot. The battery power cable will need to be positioned around the waist hex shaft inorder for the plug to be connected to the rest of the robot.
+Next, slide the battery into the back of the robot and into the battery bay such that the battery cables are in the upper right corner of the robot’s battery bay. Be sure that the two counter mass plates do not shift. This is easiest to do from the back of the robot. The battery power cable will need to be positioned around the waist hex shaft in order for the plug to be connected to the rest of the robot.
 
 ![images/assembly2/image28.png](../images/assembly2/image28.png)
 
@@ -218,7 +218,7 @@ Carefully remove the packing material from around the panels
 
 ![images/assembly2/image17.png](../images/assembly2/image17.png)
 
-Remove the plack service panels from the lower torso
+Remove the black service panels from the lower torso
 
 You should now be able to remove the bubble wrapped panels from the inside of the lower torso. Parts to remove are shown below: the black waist front and the black waist back, and the 4 chest pieces, and the two lower arms.
 
@@ -230,7 +230,7 @@ Then carefully pull out the lower torso from the skirt (the fit is tight). Use t
 
 ![images/assembly2/image8.png](../images/assembly2/image8.png)
 
-The remove the laser scanner skirt from the box
+Then remove the laser scanner skirt from the box
 
 Then remove the three thumb screws (red stars in the image below) that hold the two halves of the lower torso together. Do not lose these screws.
 
@@ -283,7 +283,7 @@ Next fasten the remaining three thumb screws that connect the left and right low
 
   ![images/assembly2/image12.png](../images/assembly2/image12.png)
 
-- Move the left arm outward before attaching the left panel. Unscrew the M3 thumbscrew by hand. Be careful that the screw does not fall into the robot. Place the screw on the torso panel first and then moving the chest panel into place. Screw the screw into the mounting panel as shown [in the video](https://photos.app.goo.gl/BrKEe9UhvjubWydK6). The left panel mounting tab should be below the torso mounting panel as shown in the image below. below the torso mounting panel as shown in the image below.
+- Move the left arm outward before attaching the left panel. Unscrew the M3 thumbscrew by hand. Be careful that the screw does not fall into the robot. Place the screw on the torso panel first and then moving the chest panel into place. Screw the screw into the mounting panel as shown [in the video](https://photos.app.goo.gl/BrKEe9UhvjubWydK6). The left panel mounting tab should be below the torso mounting panel as shown in the image below.
 
   ![images/assembly2/image15.png](../images/assembly2/image15.png)
 

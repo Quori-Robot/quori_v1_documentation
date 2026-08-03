@@ -1,6 +1,6 @@
 # Modular Configurations
 
-You can reconfigure Quori with new modules or use some of its module’s independently. See the [Receiving and Shipping Section](../setup/shipment.md) for instructions on how to attach and remove modules. If you do not use Quori in its default configuration you may need to modify the quori_controller configuration. Here are a few examples to consider:
+You can reconfigure Quori with new modules or use some of its modules independently. See the [Receiving and Shipping Section](../setup/shipment.md) for instructions on how to attach and remove modules. If you do not use Quori in its default configuration you may need to modify the quori_controller configuration. Here are a few examples to consider:
 
 ## Locking the Waist
 
@@ -8,9 +8,9 @@ An optional locking pin feature allows for the torso motion to be locked for shi
 
 ## Using the Base Module Independently
 
-You may want to mount your own robot the the base module. The base module has 14 M3 inserts in its mounting plate. See FILE for mounting plate dimensions. To control the base with your own robot you will need to give the base power and ROS to send commands.
+You may want to mount your own robot to the base module. The base module has 14 M3 inserts in its mounting plate. See FILE for mounting plate dimensions. To control the base with your own robot you will need to give the base power and ROS to send commands.
 
-For power you will need 12V at atleast 6 Amps to plug into the base’s XT60 cable. For data, you will need to plug the base’s USB cable into a computer running ROS. ROS topics for the base can be found on [the github repository](https://github.com/Quori-Robot/quori_base_embedded).
+For power you will need 12V at at least 6 Amps to plug into the base’s XT60 cable. For data, you will need to plug the base’s USB cable into a computer running ROS. ROS topics for the base can be found on [the github repository](https://github.com/Quori-Robot/quori_base_embedded).
 
 ## Using the Head Module Independently
 
